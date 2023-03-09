@@ -2,6 +2,7 @@ function display(){
     console.log("1) My Hobbey is Learning New things");
     console.log("___________");
 
+    
     console.log("My Fav Movie South");
     console.log("___________");
 
@@ -14,7 +15,7 @@ function personalDetails(firstName,lastName,collegeName){
 
 }
 console.log("2)");
-personalDetails("shilpa","patil","sandip univarcity")
+personalDetails("shilpa","patil","sandip university")
 
  
 function swapValues(value1,value2){

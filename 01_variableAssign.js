@@ -1,6 +1,7 @@
 var contry;
 console.log(contry);
 
+
 var myName;  //declaration
 myName="shilpa"; //initialise
 console.log(myName);

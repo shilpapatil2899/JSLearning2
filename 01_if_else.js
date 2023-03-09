@@ -18,7 +18,7 @@ var votingEligibility = function (age) {
   votingEligibility(200);
   votingEligibility(0);
 
-console.log("//////////////////////////////////////////////////////////////////////////////////////////////")
+console.log("*******************************************************************************************")
   var gradeCalculation = function(marks) {
     if(marks<=0 || marks>100){
         console.log(`\n Invalid marks :- ${marks}. \nPlease provide a valid marks.`);

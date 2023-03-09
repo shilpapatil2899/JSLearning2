@@ -1,7 +1,7 @@
 
 var stringHandsOn=function() {
 
-    var str="     hey you are doing good, keep it up     ";
+    var str="  hey you are doing good, keep it up     ";
     
     console.log(`the given string is:- ${str}`);
     
